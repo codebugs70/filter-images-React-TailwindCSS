@@ -1,6 +1,6 @@
 # filter-images
 Create filter images in React 
-# This porject using React + Tailwind CSS
+# This project using React + Tailwind CSS
 
 ## PREVIEW 
 ![image](https://user-images.githubusercontent.com/127585158/224524085-d9e0ee85-4a58-4338-8fef-b2557bff8402.png)
